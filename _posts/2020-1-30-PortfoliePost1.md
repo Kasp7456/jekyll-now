@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Her er mine Portfolie blog!
+title: Her er min Portfolie blog!
 ---
 
 For alle studerende gælder de generelle læringsmål (fra studieordningen):
